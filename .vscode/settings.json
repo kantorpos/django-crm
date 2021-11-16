@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "django-crm",
+            "database": "dj_crm",
+            "username": "django",
+            "password": "asli1234"
+        }
+    ]
+}
